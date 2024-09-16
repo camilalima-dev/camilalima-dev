@@ -7,8 +7,8 @@ Nos meus projetos, gosto de explorar tanto o **Front-End** quanto o **Back-End**
 Além disso, sou instrutora em sistemas de informações orçamentárias e busco sempre evoluir minhas habilidades técnicas e compartilhar conhecimento.
 
 - 🚀 Estou sempre aprendendo e experimentando novas tecnologias
-- 🌐 Confira meus projetos no [GitHub](https://github.com/camilalima.dev)
-- 💬 Vamos nos conectar no [LinkedIn](https://www.linkedin.com/in/camilalima.dev)
+- 🌐 Confira meus projetos no [GitHub](https://github.com/camilalima-dev)
+- 💬 Vamos nos conectar no [LinkedIn](https://www.linkedin.com/in/camilalima-dev/)
 - 🎮 Gosto de relaxar jogando **Call of Duty** nas horas vagas!
 
 ---
